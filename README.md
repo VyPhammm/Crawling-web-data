@@ -11,13 +11,14 @@ This project is designed to scrape job data from the German Agency's job search 
 ```
 Crawling-web-data/
 │
-├── README.md
 ├── data/
 │   └── data.json
-└── scripts/
-		├── crawling.py
-		├── handle_missing_info.py
-		├── load_to_db.py
+├── scripts/
+│   ├── crawling.py
+│   ├── handle_missing_info.py
+│   ├── load_to_db.py
+├── requirements.txt
+└── README.md
 ```
 
 ## Components
